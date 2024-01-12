@@ -1,4 +1,0 @@
-This line has too many lowercase e's to count.
-This has too few.
-This line has exactly two.
-This line shouldn't matter, since we already have a line containing two e's.
